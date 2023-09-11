@@ -40,7 +40,7 @@ Finally press the “Create Repository” button to create the repo.
 
 ## Step 3: Adding a Files to Your Repository
 
-You now have a git repository on your local computer. To see your git repository press the “Show in Finder” button.
+You now have a git repository on your local computer. To see your git repository press the “Show in Finder” button. Right click, "Show in Explorer" for those on Windows! 
 
 ![View the files of your repository in finder](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/finder.png)
 
